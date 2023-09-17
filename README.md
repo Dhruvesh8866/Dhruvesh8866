@@ -4,18 +4,18 @@
 <meta charset="UTF-8">
 <meta http=equiv="X-UA-Compatible" content="IE=edge">
 </head>
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js">
+<!-- <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js">
 var typed= new Typed(".auto-type",{
 strings: ["Programmer", "Student"],
 typeSpeed: 150,
 backSpeed: 150,
 looped: true
 })
-</script>
+</script> -->
 
 <body>
 <div class="container">
-<h1>I am a <span class="auto-type"></span></h1>
+<h1>I am a Computer Science Student at University of Windsor <span class="auto-type"></span></h1>
 </div>
 </body>
 </html>
