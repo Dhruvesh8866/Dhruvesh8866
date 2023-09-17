@@ -15,7 +15,7 @@ looped: true
 
 <body>
 <div class="container">
-<h1>I am a Computer Science Student at University of Windsor <span class="auto-type"></span></h1>
+<h1>I am a Computer Science Student at University of Windsor. <span class="auto-type"></span></h1>
 </div>
 </body>
 </html>
